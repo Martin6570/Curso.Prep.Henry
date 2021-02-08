@@ -1,0 +1,15 @@
+
+Variables: es una letra o nombre, que le podemos poner un valor adentro, que despues lo podemos ir modificando,
+sumando, restando etc... por ejemplo podriamos hacer una variable = C , que representa "caramelos" y a lo largo
+del programa, C puede ir teniendo mas o menos caramelos, segun lo que vaya pasando.
+
+strings: es una cadena de letras y demas caracteres.  Siendo un caracter cualquier simbolo que se pueda escribir 
+en la pc,incluido el espacio.
+
+Funciones: es una instruccion "larga" que podemos guardar " de una manera mas corta "para usar mas tarde. 
+como escribir por ejemplo una funcion que averigue el area de alguna figura complicada para que cuando la necesitemos
+no halla que escribir toda la formula. 
+
+declaraciones: se utilizar para realizar condiciones " SI te portas bien comes postre, SI NO, lavas los platos
+
+Valores boleanos: es cuando en una variable, o comparacion, el resultado puede ser solo "Verdadero" o "falso"
