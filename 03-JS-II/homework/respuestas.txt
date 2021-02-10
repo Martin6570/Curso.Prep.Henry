@@ -1,0 +1,5 @@
+for: genera un bucle, o sea que se repite un ciclo mientras se cumpla una condicion 
+
+&& , se usa para hace cumplir dos o mas condiciones simuntaneas (condicion1 y condicion2, y condicionN)
+|| , se usa para cumplir al menos una de las condiciones ( condicion1 o Condicion2)
+! , se usa para negar algo. se obtiene logicamente lo contrario. 
