@@ -1,0 +1,2 @@
+
+Array: significa arreglo, y ahi se pueden almacenar listas de distintas item, que van a ir teniendo un numero ordenado cada una
