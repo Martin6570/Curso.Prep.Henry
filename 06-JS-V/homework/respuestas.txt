@@ -1,0 +1,8 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+prototype: se usa para generar metodos en un lado solo y poder convocarlos, en lugar de generar metodos repetitivos en cada
+            objeto que se encuentra en las clases.
+
+Constructors (de Clases): se utiliza para crear un modelo o tipo de objeto que compartan similitudes. logrando agrupar estos
+                            en una clase de objeto, como en la vida real podriamos agrupar averturas, con sus caracteristicas
+                            unicas (puertas, ventanas, etc)
